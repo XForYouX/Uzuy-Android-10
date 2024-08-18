@@ -23,4 +23,4 @@
 [Uzuy Official Release ](https://uzuy-edge.org/download-page)
 
 ## Website Uzuy Official ( You Can Get Some Information From Website Uzuy Official )
-[Website Uzuy Official]([https://suyu.dev](https://uzuy-edge.org/))
+[Website Uzuy Official]([https://suyu.dev](https://uzuy-edge.org/)
