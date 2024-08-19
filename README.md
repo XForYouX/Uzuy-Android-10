@@ -28,3 +28,9 @@
 # Uzuy Official Source ( You Can Build Private )
 * [Uzuy Official Source](https://git.uzuy-edge.org/Uzuy/Uzuy)
 
+# Disclaimer
+* Uzuy Android 10 Maybe Not Work Some Game For Mali Device & You Need Driver Android 10 Only
+
+# Driver Uzuy Android 10
+* [Driver Uzuy Android 10](https://github.com/XHYN-PH/switch-android10-guide)
+
