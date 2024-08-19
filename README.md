@@ -17,10 +17,14 @@
 ~~~
 
 ## Full Changelog NCE-V.1 ##
-* Coming Soon 
+* [ NCE V.1 ](https://github.com/XForYouX/Uzuy-Android-10/releases/tag/NCE-V.1)
 
 ## Uzuy Official Release 
-[Uzuy Official Release ](https://uzuy-edge.org/download-page)
+* [Uzuy Official Release ](https://uzuy-edge.org/download-page)
 
 ## Website Uzuy Official ( You Can Get Some Information From Website Uzuy Official )
-[Website Uzuy Official](https://uzuy-edge.org/)
+* [Website Uzuy Official](https://uzuy-edge.org/)
+
+# Uzuy Official Source ( You Can Make Private )
+* [Uzuy Official Source](https://git.uzuy-edge.org/Uzuy/Uzuy)
+
