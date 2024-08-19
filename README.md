@@ -15,11 +15,9 @@
 | ## Im Focus Build Uzuy For Android 10-14 |
 | ## Am I Famous? No, I'm just a user who likes to share goodness, even though not from an economic perspective, but from the perspective of what I can |
 ~~~
-## Full Changelog Alpha-V.1 ##
-* [Alpha V.1](https://github.com/XForYouX/Uzuy-Android-10/releases/tag/Alpha-V.1)
 
-## Full Changelog NCE-V.1 ##
-* [ NCE V.1 ](https://github.com/XForYouX/Uzuy-Android-10/releases/tag/NCE-V.1)
+## Full Changelog NCE-V.2 ##
+* [ NCE V.2 ](https://github.com/XForYouX/Uzuy-Android-10/releases/tag/NCE-V.2)
 
 ## Uzuy Official Release 
 * [Uzuy Official Release ](https://uzuy-edge.org/download-page)
