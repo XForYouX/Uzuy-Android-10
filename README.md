@@ -30,6 +30,7 @@
 
 # Disclaimer
 * Uzuy Android 10 Maybe Not Work Some Game For Mali Device & You Need Driver Android 10 Only
+* This App Free Not Paid
 
 # Driver Uzuy Android 10
 * [Driver Uzuy Android 10](https://github.com/XHYN-PH/switch-android10-guide)
