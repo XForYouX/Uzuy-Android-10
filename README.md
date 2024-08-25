@@ -16,8 +16,8 @@
 | ## Am I Famous? No, I'm just a user who likes to share goodness, even though not from an economic perspective, but from the perspective of what I can |
 ~~~
 
-## Full Changelog NCE-V.10 ##
-* [ NCE V.10 ](https://github.com/XForYouX/Uzuy-Android-10/releases/tag/NCE-V.10)
+## Full Changelog NCE-V.11 ##
+* [ NCE V.11 ](https://github.com/XForYouX/Uzuy-Android-10/releases/tag/NCE-V.11)
 
 ## Uzuy Official Release 
 * [Uzuy Official Release ](https://uzuy-edge.org/download-page)
