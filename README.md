@@ -16,8 +16,8 @@
 | ## Am I Famous? No, I'm just a user who likes to share goodness, even though not from an economic perspective, but from the perspective of what I can |
 ~~~
 
-## Full Changelog NCE-V.15 ##
-* [ NCE V.15 ](https://github.com/XForYouX/Uzuy-Android-10/releases/tag/NCE-V.15)
+## Full Changelog NCE-V.16 ##
+* [ NCE V.16 ](https://github.com/XForYouX/Uzuy-Android-10/releases/tag/NCE-V.16)
 
 ## Uzuy Official Release 
 * [Uzuy Official Release ](https://uzuy-edge.org/download-page)
@@ -31,6 +31,7 @@
 # Disclaimer
 * Uzuy Android 10 Maybe Not Work Some Game For Mali Device & You Need Driver Android 10 Only
 * This App Free Not Paid
+* Some Feature I Add Manual Not For Official Uzuy
 
 # Driver Uzuy Android 10
 * [Driver Uzuy Android 10](https://github.com/XHYN-PH/switch-android10-guide)
