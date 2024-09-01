@@ -29,6 +29,7 @@
 * Uzuy Android 10 Maybe Not Work Some Game For Mali Device & You Need Driver Android 10 Only
 * This App Free Not Paid
 * Some Feature I Add Manual Not For Official Uzuy
+* Im Share 100% Safe Not Detect All Virus Or Malware
 
 # Driver Uzuy Android 10
 * [Driver Uzuy Android 10](https://github.com/XHYN-PH/switch-android10-guide)
