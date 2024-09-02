@@ -25,6 +25,9 @@
 ## Website Uzuy Official ( You Can Get Some Information From Website Uzuy Official )
 * [Website Uzuy Official](https://uzuy-edge.org/)
 
+## Source Uzuy Official ( You Can Make Build Private )
+* [Source Uzuy Official](https://git.uzuy-edge.org/explore/repos)
+
 # Disclaimer
 * Uzuy Android 10 Maybe Not Work Some Game For Mali Device & You Need Driver Android 10 Only
 * This App Free Not Paid
