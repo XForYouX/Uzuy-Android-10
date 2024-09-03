@@ -33,6 +33,7 @@
 * This App Free Not Paid
 * Some Feature I Add Manual Not For Official Uzuy
 * Im Share 100% Safe Not Detect All Virus Or Malware
+* My Build Use NCE / EA ( Not Mainline )
 
 # Driver Uzuy Android 10
 * [Driver Uzuy Android 10](https://github.com/XHYN-PH/switch-android10-guide)
