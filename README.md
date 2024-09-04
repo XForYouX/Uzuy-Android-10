@@ -24,8 +24,8 @@
 * Support Android 10 ( 10 - 14 )
 * More
 
-## Full Changelog NCE-V.19 ##
-* [ NCE V.19 ](https://github.com/XForYouX/Uzuy-Android-10/releases/tag/NCE-V.19)
+## Full Changelog NCE-V.20 ##
+* [NCE-V.20](https://github.com/XForYouX/Uzuy-Android-10/releases/tag/NCE-V.20)
 
 ## Uzuy Official Release 
 * [Uzuy Official Release ](https://uzuy-edge.org/download-page)
