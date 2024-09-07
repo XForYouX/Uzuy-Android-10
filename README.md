@@ -16,7 +16,7 @@
 | ## Am I Famous? No, I'm just a user who likes to share goodness, even though not from an economic perspective, but from the perspective of what I can |
 ~~~
 
-# List Feature Uzuy MMJR BlackHawk Reborn
+# List Feature Uzuy BlackHawk Reborn
 * Add New & Rework Reso
 * Increase some limit ( Speed , Audio , FSR )
 * Rework Frameskip & Frame Interpolate
@@ -24,8 +24,8 @@
 * Support Android 10 ( 10 - 14 )
 * More
 
-## Full Changelog NCE-V.20 ##
-* [NCE-V.20](https://github.com/XForYouX/Uzuy-Android-10/releases/tag/NCE-V.20)
+## Full Changelog NCE-V.21 ##
+* [NCE-V.21](https://github.com/XForYouX/Uzuy-Android-10/releases/tag/NCE-V.21)
 
 ## Uzuy Official Release 
 * [Uzuy Official Release ](https://uzuy-edge.org/download-page)
